@@ -37,8 +37,8 @@ async def save_group(bot, message):
             await bot.leave_chat(message.chat.id)
             return
         buttons = [[
-            InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
-            InlineKeyboardButton('⚡️ Main Channel ⚡️', url='https://t.me/KCFilmss')
+            InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', url=f"https://t.me/{temp.U_NAME}?start=help"),
+            InlineKeyboardButton('⚡️ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⚡️', url='https://t.me/Movies4youBackup')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
@@ -49,7 +49,7 @@ async def save_group(bot, message):
         if settings["welcome"]:
             for u in message.new_chat_members:
                 zaute = [[
-            InlineKeyboardButton('⚡️ Main Channel ⚡️', url="https://t.me/KCFilmss"),
+            InlineKeyboardButton('⚡️ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⚡️', url="https://t.me/Movies4youBackup"),
             InlineKeyboardButton('🔰 Main Group 🔰', url="https://t.me/KC_Films")
         ],
         [
