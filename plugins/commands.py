@@ -324,7 +324,7 @@ async def bot(bot, message):
 @Client.on_message(filters.command("update"))
 async def update(bot, message):
     buttons = [[
-        InlineKeyboardButton("⚡️ Main Channel ⚡️", url='t.me/KCFilmss')       
+        InlineKeyboardButton("⚡️ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⚡️", url='t.me/Movies4youBackup')       
         ],[
         InlineKeyboardButton("🔰 ᴍᴀɪɴ ɢʀᴏᴜᴘ 🔰", url='t.me/Movies_4you')
     ]]
@@ -339,7 +339,7 @@ async def update(bot, message):
 @Client.on_message(filters.command("cmd"))
 async def cmd(bot, message):
     buttons = [[
-        InlineKeyboardButton("⚡️ Main Channel ⚡️", url='t.me/KCFilmss')       
+        InlineKeyboardButton("⚡️ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⚡️", url='t.me/Movies4youBackup')       
         ],[
         InlineKeyboardButton("🔰 ᴍᴀɪɴ ɢʀᴏᴜᴘ 🔰", url='t.me/Movies_4you')
     ]]
