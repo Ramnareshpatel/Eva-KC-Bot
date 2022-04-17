@@ -60,7 +60,7 @@ Mʏ ɴᴀᴍᴇ ɪꜱ <a href=https://t.me/{}>{}</a>, I ᴀᴍ ᴊᴜsᴛ ᴀɴ 
 
 <b>╔══ 𝘑𝘰𝘪𝘯 ★ 𝘚𝘩𝘢𝘳𝘦 ★ 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 ══╗
 ♻️ ᴊᴏɪɴ :- <a href=https://t.me/Movies4youBackup><b>⚔️ ʙᴀᴄᴋᴜᴘ ᴄʜᴀɴɴᴇʟ ⚔️</b></a>
-♻️ ᴊᴏɪɴ :- <a href=https://t.me/Movies_4you><b>⚔️ ᴍᴀɪɴ ɢʀᴏᴜᴘ </b></a>
+♻️ ᴊᴏɪɴ :- <a href=https://t.me/Movies_4you><b>⚔️ ᴍᴀɪɴ ɢʀᴏᴜᴘ ⚔️</b></a>
 ♻️ ᴏᴡɴᴇʀ :- <a href=https://t.me/KingOf_univers><b>😘 ᴄʟɪᴄᴋ ʜᴇʀᴇ 😘</b></a>
 ╚══ 𝘑𝘰𝘪𝘯 ★ 𝘚𝘩𝘢𝘳𝘦 ★ 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 ══╝</b>
 
