@@ -37,7 +37,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/kckhais/Eva-KC-Bot/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/Ramnareshpatel/Eva-KC-Bot/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
