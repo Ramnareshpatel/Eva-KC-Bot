@@ -309,7 +309,7 @@ async def bot(bot, message):
         InlineKeyboardButton("ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="commands"),
         InlineKeyboardButton("ᴇɴqᴜɪʀy", callback_data="enqury")
         ],[
-        InlineKeyboardButton("🔰 Main Group 🔰", url='https://t.me/KC_Films')
+        InlineKeyboardButton("🔰 ᴍᴀɪɴ ɢʀᴏᴜᴘ 🔰", url='https://t.me/Movies_4you')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
     await message.reply_chat_action("typing")
@@ -326,7 +326,7 @@ async def update(bot, message):
     buttons = [[
         InlineKeyboardButton("⚡️ Main Channel ⚡️", url='t.me/KCFilmss')       
         ],[
-        InlineKeyboardButton("🔰 Main Group 🔰", url='t.me/KC_Films')
+        InlineKeyboardButton("🔰 ᴍᴀɪɴ ɢʀᴏᴜᴘ 🔰", url='t.me/Movies_4you')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
     await message.reply_chat_action("typing")
@@ -341,7 +341,7 @@ async def cmd(bot, message):
     buttons = [[
         InlineKeyboardButton("⚡️ Main Channel ⚡️", url='t.me/KCFilmss')       
         ],[
-        InlineKeyboardButton("🔰 Main Group 🔰", url='t.me/KC_Films')
+        InlineKeyboardButton("🔰 ᴍᴀɪɴ ɢʀᴏᴜᴘ 🔰", url='t.me/Movies_4you')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
     await message.reply_photo(
