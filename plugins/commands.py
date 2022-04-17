@@ -38,8 +38,8 @@ async def start(client, message):
                 InlineKeyboardButton('🔰 ᴍᴀɪɴ ɢʀᴏᴜᴘ 🔰', url="https://t.me/Movies_4you")
             ],
             [
-                InlineKeyboardButton('⚜️ Backup Channel ⚜️', url="https://t.me/+7AyTKA_SqdsyNWNl"),
-                InlineKeyboardButton('🧲 Backup Group 🧲', url="https://t.me/KC_Filmz")
+                InlineKeyboardButton('🌿 ᴜᴘᴅᴀᴛᴇᴢ 🌿', url="https://t.me/Movies4youBackup"),
+                InlineKeyboardButton('💫 ɢʀᴏᴜᴘ 💫', url="https://t.me/Movies_4you")
             ],
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
