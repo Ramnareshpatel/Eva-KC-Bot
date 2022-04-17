@@ -160,8 +160,8 @@ async def imdb_callback(bot: Client, quer_y: CallbackQuery):
                 )
             ],
             [
-                InlineKeyboardButton('⚡️ Main Channel ⚡️', url="https://t.me/KCFilmss"),
-                InlineKeyboardButton('🔰 Main Group 🔰', url="https://t.me/KC_Films")
+                InlineKeyboardButton('⚡️ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⚡️', url="https://t.me/Movies4youBackup"),
+                InlineKeyboardButton('🔰 ᴍᴀɪɴ ɢʀᴏᴜᴘ 🔰', url="https://t.me/Movies_4you")
             ],
             [
                 InlineKeyboardButton('⚜️ Backup Channel ⚜️', url="https://t.me/+7AyTKA_SqdsyNWNl"),
