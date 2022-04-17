@@ -66,12 +66,12 @@ async def start(client, message):
             get = 'Gᴏᴏᴅ ᴇᴠᴇɴɪɴɢ'
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
-            ],[
-            InlineKeyboardButton('⚜️ Backup Channel ⚜️', url='https://t.me/+7AyTKA_SqdsyNWNl'),
-            InlineKeyboardButton('🧲 Backup Group 🧲', url='https://t.me/KC_Filmz')
-            ],[
-            InlineKeyboardButton('ℹ️ Help', callback_data='help'),
-            InlineKeyboardButton('😊 About', callback_data='about')        
+        ], [
+            InlineKeyboardButton('🌿 ᴜᴘᴅᴀᴛᴇᴢ 🌿', url='https://t.me/Movies4youBackup'),
+            InlineKeyboardButton('✨ ɢʀᴏᴜᴘ ✨', url='https://t.me/Movies_4you')
+        ], [
+            InlineKeyboardButton('💫 ʜᴇʟᴘ 💫', callback_data='help'),
+            InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ 😊', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         h = await message.reply_sticker(
@@ -117,12 +117,12 @@ async def start(client, message):
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
-            ],[
-            InlineKeyboardButton('⚜️ Backup Channel ⚜️', url='https://t.me/+7AyTKA_SqdsyNWNl'),
-            InlineKeyboardButton('🧲 Backup Group 🧲', url='https://t.me/KC_Filmz')
-            ],[
-            InlineKeyboardButton('ℹ️ Help', callback_data='help'),
-            InlineKeyboardButton('😊 About', callback_data='about')               
+        ], [
+            InlineKeyboardButton('🌿 ᴜᴘᴅᴀᴛᴇᴢ 🌿', url='https://t.me/Movies4youBackup'),
+            InlineKeyboardButton('✨ ɢʀᴏᴜᴘ ✨', url='https://t.me/Movies_4you')
+        ], [
+            InlineKeyboardButton('💫 ʜᴇʟᴘ 💫', callback_data='help'),
+            InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ 😊', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
