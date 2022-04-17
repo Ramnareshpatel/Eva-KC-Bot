@@ -65,7 +65,7 @@ Mʏ ɴᴀᴍᴇ ɪꜱ <a href=https://t.me/{}>{}</a>, I ᴀᴍ ᴊᴜsᴛ ᴀɴ 
 ╚══ 𝘑𝘰𝘪𝘯 ★ 𝘚𝘩𝘢𝘳𝘦 ★ 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 ══╝</b>
 
  
-<b>💘 Team ➜ <a href=https://t.me/KCFilmss>💫 KC Filmss 💫</a>\n✯ ━━━━━ ✧ ━━━━━ ✯</b>\n"""
+<b>💘 Team ➜ <a href=https://t.me/Movies4youBackup 💫 ᴍᴏᴠɪᴇs 4 ʏᴏᴜ ʙᴀᴄᴋᴜᴘ 💫</a>\n✯ ━━━━━ ✧ ━━━━━ ✯</b>\n"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
