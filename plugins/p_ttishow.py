@@ -50,11 +50,11 @@ async def save_group(bot, message):
             for u in message.new_chat_members:
                 zaute = [[
             InlineKeyboardButton('⚡️ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⚡️', url="https://t.me/Movies4youBackup"),
-            InlineKeyboardButton('🔰 Main Group 🔰', url="https://t.me/KC_Films")
+            InlineKeyboardButton('🔰 ᴍᴀɪɴ ɢʀᴏᴜᴘ 🔰', url="https://t.me/Movies_4you")
         ],
         [
-            InlineKeyboardButton('⚜️ Backup Channel ⚜️', url="https://t.me/+7AyTKA_SqdsyNWNl"),
-            InlineKeyboardButton('🧲 Backup Group 🧲', url="https://t.me/KC_Filmz")
+            InlineKeyboardButton('🌿 ᴜᴘᴅᴀᴛᴇᴢ 🌿', url="https://t.me/Movies4youBackup"),
+            InlineKeyboardButton('💫 ɢʀᴏᴜᴘ 💫', url="https://t.me/Movies_4you")
         ]
         ]
                 if (temp.MELCOW).get('welcome') is not None:
