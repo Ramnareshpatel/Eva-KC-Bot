@@ -732,22 +732,22 @@ async def auto_filter(client, msg, spoll=False):
              InlineKeyboardButton(text="NEXT ⏩", callback_data=f"next_{req}_{key}_{offset}")]   
         )
         btn.insert(0,
-            [InlineKeyboardButton(text="🔰 Main Group 🔰",url="https://t.me/KC_Films")]
+            [InlineKeyboardButton(text="🔰 ᴍᴀɪɴ ɢʀᴏᴜᴘ 🔰",url="https://t.me/Movies_4you")]
             )
         btn.insert(0,
-            [InlineKeyboardButton(text="⚜️ Backup Channel ⚜️",url="https://t.me/+7AyTKA_SqdsyNWNl"),
-             InlineKeyboardButton(text="🧲 Backup Group 🧲",url="https://t.me/KC_Filmz")]
+            [InlineKeyboardButton(text="🌿 ᴜᴘᴅᴀᴛᴇᴢ 🌿",url="https://t.me/Movies4youBackup"),
+             InlineKeyboardButton(text="✨ ɢʀᴏᴜᴘ ✨",url="https://t.me/Movies_4you")]
         )
     else:
         btn.append(
             [InlineKeyboardButton(text="🗓 1/1", callback_data="pages")]
         )
         btn.insert(0,
-            [InlineKeyboardButton(text="🔰 Main Group 🔰",url="https://t.me/KC_Films")]
+            [InlineKeyboardButton(text="🔰 ᴍᴀɪɴ ɢʀᴏᴜᴘ 🔰",url="https://t.me/Movies_4you")]
             )
         btn.insert(0,
-            [InlineKeyboardButton(text="⚜️ Backup Channel ⚜️",url="https://t.me/+7AyTKA_SqdsyNWNl"),
-             InlineKeyboardButton(text="🧲 Backup Group 🧲",url="https://t.me/KC_Filmz")]
+            [InlineKeyboardButton(text="🌿 ᴜᴘᴅᴀᴛᴇᴢ 🌿",url="https://t.me/Movies4youBackup"),
+             InlineKeyboardButton(text="✨ ɢʀᴏᴜᴘ ✨",url="https://t.me/Movies_4you")]
         )
     imdb = await get_poster(search, file=(files[0]).file_name) if settings["imdb"] else None
     TEMPLATE = settings['template']
