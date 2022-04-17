@@ -59,9 +59,9 @@ Mʏ ɴᴀᴍᴇ ɪꜱ <a href=https://t.me/{}>{}</a>, I ᴀᴍ ᴊᴜsᴛ ᴀɴ 
 - This is an open source project. 
 
 <b>╔══ 𝘑𝘰𝘪𝘯 ★ 𝘚𝘩𝘢𝘳𝘦 ★ 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 ══╗
-♻️ ᴊᴏɪɴ :- <a href=https://t.me/+7AyTKA_SqdsyNWNl><b>⚜️ Backup Channel ⚜️</b></a>
-♻️ ᴊᴏɪɴ :- <a href=https://t.me/KC_Films><b>🔰 Main Group 🔰</b></a>
-♻️ ᴊᴏɪɴ :- <a href=https://t.me/KC_Filmz><b>🧲 Backup Group 🧲</b></a>
+♻️ ᴊᴏɪɴ :- <a href=https://t.me/Movies4youBackup><b>⚔️ ʙᴀᴄᴋᴜᴘ ᴄʜᴀɴɴᴇʟ ⚔️</b></a>
+♻️ ᴊᴏɪɴ :- <a href=https://t.me/Movies_4you><b>⚔️ ᴍᴀɪɴ ɢʀᴏᴜᴘ </b></a>
+♻️ ᴏᴡɴᴇʀ :- <a href=https://t.me/KingOf_univers><b>😘 ᴄʟɪᴄᴋ ʜᴇʀᴇ 😘</b></a>
 ╚══ 𝘑𝘰𝘪𝘯 ★ 𝘚𝘩𝘢𝘳𝘦 ★ 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 ══╝</b>
 
  
